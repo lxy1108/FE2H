@@ -1,0 +1,12 @@
+torch==1.7.1
+transformers==2.5.1
+tqdm
+nltk
+scikit-learn
+scipy
+numpy
+regex
+pandas
+spacy
+json
+bisect
